@@ -2,7 +2,7 @@
 
 **I am a computer engineering student.**
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **ferhatakalann@outlook.com**
 

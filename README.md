@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ferhat</h1>
 
-Hello, my name is Ferhat Akalan. I am currently a third year student studying Computer Engineering at Giresun University. My passion for computer science and technology drives me to stay up to date with the latest developments in the industry and pursue a career in this field.
+Hello, my name is Ferhat Akalan. I am currently a fourth  year student studying Computer Engineering at Giresun University. My passion for computer science and technology drives me to stay up to date with the latest developments in the industry and pursue a career in this field.
 
 My internship and project experiences have allowed me to specialize in software programming. I would like to do an internship in the future to develop these skills and gain more experience in this field.
 

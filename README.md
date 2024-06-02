@@ -12,6 +12,8 @@ If you would like to learn more about my experience, projects, and skills, pleas
 
  📫 How to reach me **ferhatakalann@outlook.com**
 
+<a>https://ferhatakalan.github.io</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhatakalan&label=Profile%20views&color=0e75b6&style=flat" alt="ferhatakalan" /> </p>
 
 ###

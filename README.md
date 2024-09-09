@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ferhat</h1>
 
-Hello, my name is Ferhat Akalan. I have recently graduated from the Computer Engineering department at Giresun University. My passion for computer science and technology drives me to stay up to date with the latest developments in the industry and pursue a career in this field.
+Hello, my name is Ferhat Akalan. I graduated from Giresun University Computer Engineering Department as the second in my department. My passion for computer science and technology drives me to stay up to date with the latest developments in the industry and pursue a career in this field.
 
 My internship and project experiences have allowed me to specialize in software programming. I would like to work in the future to improve these skills and gain more experience in this field.
 
-I am interested in coding and software development and I develop personal projects to gain experience in this field. I am proficient in programming languages such as Python, Java, and C#, and I share the projects I develop in these languages on GitHub.
+I am interested in coding and software development and I develop personal projects to gain experience in this field. I am proficient in programming languages such as Python, Java, and C#, and I share the projects I develop in these languages on GitHub. I also have a deep interest in artificial intelligence and machine learning and want to improve myself in these technologies.
 
 If you would like to learn more about my experience, projects, and skills, please feel free to connect with me on mail. Additionally, I am open to job opportunities. I am eager to be a part of the evolving technologies. Thank you!
 
